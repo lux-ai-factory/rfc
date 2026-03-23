@@ -1,5 +1,5 @@
-# AI Assessment Sandbox Configurator Request for Comments (RFC) — Towards an open and European "Hugging Face for AI Testing"
-> *March 2026*
+# AI Assessment Sandbox Configurator Request for Comments (RFC) 
+> Towards an open and European "Hugging Face for AI Testing" - *March 2026*
 
 ---
 
