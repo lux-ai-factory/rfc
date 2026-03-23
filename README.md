@@ -72,7 +72,7 @@ We envision the Sandbox Configurator becoming a **European sovereign open-source
 | Document | Description |
 |---|---|
 | [Concept and Architecture](https://github.com/lux-ai-factory/rfc/blob/main/Concept%20and%20Architecture.pdf) |  Overview document describing the context, the definitions, the requirements, the user journey and the open architecture of the Sandbox Configurator. The more technical parts are shaded in grey and can be skipped by non-technical readers. |
-| [Catalogue of AI Tests and Controls.pdf](https://github.com/lux-ai-factory/rfc/blob/main/Catalogue%20of%20AI%20Tests%20and%20Controls.pdf) | Draft metadata schema for filtering and searching AI tests and controls in the Catalogue |
+| [Catalogue of AI Tests and Controls](https://github.com/lux-ai-factory/rfc/blob/main/Catalogue%20of%20AI%20Tests%20and%20Controls.pdf) | Draft metadata schema for filtering and searching AI tests and controls in the Catalogue |
 | [Plug-in API to integrate third-party tests into the Catalogue](https://github.com/lux-ai-factory/rfc/blob/main/Plugin%20Developer%20Guide.pdf) | Technical specifications for developers integrating third-party tests into the Catalogue via the plug-in API |
 
 
