@@ -5,7 +5,7 @@
 
 ## Overview
 
-This repository hosts the RFC on the **AI Assessment Sandbox Configurator** — an open-source tool developed by the [Luxembourg Institute of Science and Technology (LIST)](https://www.list.lu) and the [University of Luxembourg](https://www.uni.lu) within the [Luxembourg AI Factory](https://aifactory.lu/) to scale the assessment of AI solutions across Europe.
+This repository hosts the RFC on the **AI Assessment Sandbox Configurator** — an open-source tool developed by the [Luxembourg Institute of Science and Technology (LIST)](https://www.list.lu) and the Interdisciplinary Centre for Security, Reliability and Trust (SnT), [University of Luxembourg](https://www.uni.lu) within the [Luxembourg AI Factory](https://aifactory.lu/) to scale the assessment of AI solutions across Europe.
 
 We invite comments and contributions from the community.
 
@@ -71,13 +71,38 @@ We envision the Sandbox Configurator becoming a **European sovereign open-source
 
 | Document | Description |
 |---|---|
-| `Catalogue of AI Tests and Controls.pdf` | Context, definitions, requirements, user journey, and open architecture. *(Grey-shaded sections are technical and can be skipped by non-technical readers.)* |
-| `Plugin Developer Guide.pdf` | Draft metadata schema for filtering and searching AI tests and controls in the Catalogue |
-| `` | Technical specifications for developers integrating third-party tests into the Catalogue via the plug-in API |
+| [Concept and Architecture](https://github.com/lux-ai-factory/rfc/blob/main/Concept%and%20Architecture.pdf) |  Overview document describing the context, the definitions, the requirements, the user journey and the open architecture of the Sandbox Configurator. The more technical parts are shaded in grey and can be skipped by non-technical readers. |
+| [Catalogue of AI Tests and Controls.pdf](https://github.com/lux-ai-factory/rfc/blob/main/Catalogue%20of%20AI%20Tests%20and%20Controls.pdf) | Draft metadata schema for filtering and searching AI tests and controls in the Catalogue |
+| [Plug-in API to integrate third-party tests into the Catalogue](https://github.com/lux-ai-factory/rfc/blob/main/Plugin%20Developer%20Guide.pdf) | Technical specifications for developers integrating third-party tests into the Catalogue via the plug-in API |
 
 
 ---
 
 ## How to Contribute
 
-Please send your comments to this [form](https://tally.so/r/WOPJ0J).
+Please send you comments via the following web form: https://tally.so/r/WOPJ0J. For any questions, please contact: alessio.buscemi@list.lu and daniele.pagani@list.lu.
+
+Thank you in advance for your interest and feedback!
+-- The Luxembourg AI Factory Sandbox Team
+
+## Contributors
+
+| Name | Affiliation |
+|---|---|
+| Alessio Buscemi | LIST |
+| Daniele Pagani | LIST |
+| Maxime Cordy | SnT (University of Luxembourg) |
+| Jordi Cabot Sagrera| LIST, SnT (University of Luxembourg) |
+| Olivier Veneri | SnT (University of Luxembourg) |
+| Prasad Adhav | LIST |
+| Yu-Lin Huang | SnT (University of Luxembourg) |
+| Tom Deckenbrunnen | LIST |
+|Sean Blevins |  SnT (University of Luxembourg) |
+| Méril Miangouila | LIST |
+| Mohammed Fellaji | SnT (University of Luxembourg) |
+| Idoia Landa Oregi | LIST |
+| Carlo Iannaccone | SnT (University of Luxembourg) |
+| Ivan David Alfonso Diaz | LIST |
+| Suraj Maurya | LIST |
+
+
