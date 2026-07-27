@@ -67,6 +67,17 @@ We envision the Sandbox Configurator becoming a **European sovereign open-source
 
 ---
 
+## Status and Known Limitations
+
+The Sandbox Configurator is under active development, and the current implementation does not yet realise the full architecture described in the documents below. The most significant gap, raised by early pilot users, concerns *where* the assessment subject lives:
+
+- today, assessments require **uploading** the model file and the test datasets into the platform;
+- assessing an AI system **in place** — through the API it already exposes, with test data remaining in the provider's own permanent storage — is not yet supported, and endpoint-based testing currently exists only inside individual plugins.
+
+We are addressing this with **connection profiles**: providers connect their storage and their system's API endpoint once, and every subsequent assessment reaches the right infrastructure automatically, with no uploads and no repeated credential entry ([design ticket](https://github.com/lux-ai-factory/aisc/issues/52)). Feedback on this direction is particularly welcome through the form below.
+
+---
+
 ## Documentation
 
 | Document | Description |
